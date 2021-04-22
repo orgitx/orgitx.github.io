@@ -1,2 +1,0 @@
-# orgitx.github.io
-yes.
